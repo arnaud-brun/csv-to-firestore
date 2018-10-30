@@ -2,11 +2,11 @@
 
 Ultimate Fast CLI to migrate your csv data to Firebase Firestore!!!
 
+This forked version can handle a folder of csv file, which can be interested in case of huge data load
+
 ## Installation
 
-```
-npm i -g csv-to-firestore
-```
+git clone the current project
 
 ## Usage
 
